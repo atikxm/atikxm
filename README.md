@@ -1,66 +1,21 @@
-# 👋 Hi there! I'm Atik
+<h1 align="center">Hi 👋, I'm Atik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a passionate software developer with a focus on building impactful applications and solving real-world problems. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikxm&label=Profile%20views&color=0e75b6&style=flat" alt="atikxm" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikxm" alt="atikxm" /></a> </p>
 
-## 🌟 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌍 I'm based in Bangladesh
-- 🎓 I’m currently learning more about Python
-- 💼 I’m open to collaborating on interesting projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 💻 Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikxm&show_icons=true&locale=en&layout=compact" alt="atikxm" /></p>
 
-### Programming Languages
-- 🖥️ **C**: System programming and low-level operations.
-- 🚀 **C++**: Object-oriented programming and STL.
-- 🐍 **Python**: Data analysis, scripting, and web development.
-- 🌐 **JavaScript**: Building interactive web applications.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikxm&show_icons=true&locale=en" alt="atikxm" /></p>
 
-### Web Development
-- 📄 **HTML**: Crafting semantic web content.
-- 🎨 **CSS**: Creating responsive designs.
-
-### Tools & Technologies
-- **Version Control**: 🛠️ Git, GitHub
-- **Frameworks**: 📚 React, Flask
-- **Databases**: 🗄️ MySQL, MongoDB
-
----
-
-## 📈 Projects
-
-### Featured Projects
-- **[Project Name 1](#)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](#)**: A brief description of what this project does and the technologies used.
-- **[Project Name 3](#)**: A brief description of what this project does and the technologies used.
-
----
-
-## 📫 Connect with Me
-
-Feel free to reach out for collaborations, questions, or just a friendly chat!
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
----
-
-## 🌐 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-## 📝 Blog & Articles
-
-- **[Blog Post Title 1](#)**: A brief description or summary.
-- **[Blog Post Title 2](#)**: A brief description or summary.
-
----
-
-Thank you for visiting my profile! Let's connect and collaborate! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikxm&" alt="atikxm" /></p>
