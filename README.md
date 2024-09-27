@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikxm&show_icons=true&locale=en" alt="atikxm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikxm&" alt="atikxm" /></p>
+
+
+Thank you for visiting my profile! Let's connect and collaborate! 😊
