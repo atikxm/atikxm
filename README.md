@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Atikur Rahman  <br><br> <br><br>🔭 **Currently Working On**  <br>Python-based projects (web and desktop apps,  automation, or tools).  <br><br>🌱 **Currently Learning**  <br>- Python frameworks (Django/Flask/FastAPI)  <br>- Cybersecurity fundamentals (Ethical Hacking, OWASP)  <br><br>👯 **Looking to Collaborate On**  <br>Open-source projects, hackathons, or anything Python-related!  <br><br> 🤝 **Seeking Help With**  <br>Advanced Python concepts or cybersecurity best practices.  <br><br>⚡ **Fun Fact**  <br>I can debug code while eating biryani! 🍛
+Hey there! 👋 I'm Atikur Rahman  <br><br>🔭 **Currently Working On**  <br>Python-based projects (web and desktop apps,  automation, or tools).<br>🌱 **Currently Learning**  <br>- Python frameworks(Django) ,Cybersecurity <br>👯 **Looking to Collaborate On**  <br>Open-source projects, hackathons, or anything Python-related!<br> 🤝 **Seeking Help With**  <br>Advanced Python concepts or cybersecurity best practices. <br>⚡ **Fun Fact**  <br>I can debug code while eating biryani! 🍛
 
 
 ## 🌐 Socials:
